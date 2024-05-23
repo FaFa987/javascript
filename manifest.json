@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "FaFa new start",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "spceship.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
